@@ -1,6 +1,6 @@
 # 🔎 Sanny Search
 
-🚀 My first web project made with HTML & CSS.  
+🚀 My first web project made with HTML & CSS
 🌐 A simple homepage UI with Google-style search box, 🎥 video section, and footer.  
 📱 Fully responsive & beginner-friendly.  
 
